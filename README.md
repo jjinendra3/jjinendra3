@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinendra Jain</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Docker**
 
 - 📝 I regularly write articles on [https://medium.com/@jjinendra3](https://medium.com/@jjinendra3)
 
