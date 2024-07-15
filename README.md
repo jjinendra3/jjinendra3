@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/jjinendra3" target="blank"><img src="https://img.shields.io/twitter/follow/jjinendra3?logo=twitter&style=for-the-badge" alt="jjinendra3" /></a> </p>
 
-- 🔭 I’m currently looking for **Internships**
-
 - 👨‍💻 All of my projects are available at [https://jinendrajain.xyz](https://jinendrajain.xyz)
 
 - 📫 How to reach me **jjinendra3@gmail.com**
