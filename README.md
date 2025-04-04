@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jjinendra3" target="blank"><img src="https://img.shields.io/twitter/follow/jjinendra3?logo=twitter&style=for-the-badge" alt="jjinendra3" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://jinendrajain.xyz](https://jinendrajain.xyz)
+- 👨‍💻 All of my projects are available at [https://jinendra.tech](https://jinendra.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@jjinendra3](https://medium.com/@jjinendra3)
 
