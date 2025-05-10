@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack Web & App Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/jjinendra3" target="blank"><img src="https://img.shields.io/twitter/follow/jjinendra3?logo=twitter&style=for-the-badge" alt="jjinendra3" /></a> </p>
+<h3 align="left">📌 GSoC'25 @ Rocket.Chat</h3>
 
 - 👨‍💻 All of my projects are available at [https://jinendra.tech](https://jinendra.tech)
 
